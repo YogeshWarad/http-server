@@ -1,0 +1,7 @@
+C:/mygit/http-server/http-server/build/CMakeFiles/http_server.dir
+C:/mygit/http-server/http-server/build/CMakeFiles/test.dir
+C:/mygit/http-server/http-server/build/CMakeFiles/edit_cache.dir
+C:/mygit/http-server/http-server/build/CMakeFiles/rebuild_cache.dir
+C:/mygit/http-server/http-server/build/tests/CMakeFiles/test.dir
+C:/mygit/http-server/http-server/build/tests/CMakeFiles/edit_cache.dir
+C:/mygit/http-server/http-server/build/tests/CMakeFiles/rebuild_cache.dir

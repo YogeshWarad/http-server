@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/mygit/http-server/http-server/build/cmake_install.cmake",
+		"C:/mygit/http-server/http-server/build/tests/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
